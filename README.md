@@ -1,3 +1,3 @@
-# stands-03-lvm
+# Otus Homework3
 
-Стенд для домашнего занятия "Файловые системы и LVM"
+Работа залоггирована утилитой Script: [script.txt](/script.txt)
